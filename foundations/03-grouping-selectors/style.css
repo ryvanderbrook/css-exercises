@@ -1,0 +1,14 @@
+.click-me {
+    background-color: black;
+    color: white;
+}
+
+.negative-click {
+    background-color: yellow;
+}
+
+.click-me,
+.negative-click {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
